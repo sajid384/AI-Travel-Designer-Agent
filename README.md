@@ -31,7 +31,7 @@ pip install chainlit google-generativeai
 2) RUN THE AGENT
 ==========================================================
 # Start Chainlit server
-chainlit run ai_travel_designer_agent_complete.py -w
+chainlit run travel_designer_chainlit.py -w
 
 # Open the URL shown in the terminal, e.g.:
 http://localhost:8000
