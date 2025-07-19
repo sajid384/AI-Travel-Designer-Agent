@@ -77,8 +77,5 @@ https://cool-travel-agent.loca.lt
 Press CTRL + C in terminal.
 
 ==========================================================
-AUTHOR:
-Created as part of Smart Student Assistant Assignment.
-==========================================================
-"""
+
 
